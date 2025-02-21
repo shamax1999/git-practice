@@ -8,3 +8,4 @@
 ## Household
 - Paper towels
 - Soap
+- Soap
